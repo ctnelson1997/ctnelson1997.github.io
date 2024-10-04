@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.callout {
+    font-weight: 600;
+    color:red;
+}
+
+img {
+    width: 15em;
+    height: 15em;
+}
